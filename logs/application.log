@@ -1,0 +1,12 @@
+[ERROR] 2025-07-30 14:43:02,484 line 44, in <module>, session_id=1b191f66936942169cedf03c7d5bb8e3: 初期化処理に失敗しました。
+No module named 'bs4'
+[ERROR] 2025-07-30 14:43:19,511 line 44, in <module>, session_id=670c80e58188477ea80adae97c41d014: 初期化処理に失敗しました。
+No module named 'bs4'
+[ERROR] 2025-07-30 14:44:29,593 line 44, in <module>, session_id=e50eb9cb8abd4532963f9aba7176d631: 初期化処理に失敗しました。
+No module named 'bs4'
+[ERROR] 2025-07-30 14:47:49,039 line 44, in <module>, session_id=5c525b6aec0e4c698fb983a3f45111c1: 初期化処理に失敗しました。
+No module named 'bs4'
+[ERROR] 2025-07-30 14:48:53,869 line 44, in <module>, session_id=b7a0fc5eaeb8405fb379417e5f8ad9c4: 初期化処理に失敗しました。
+No module named 'bs4'
+[ERROR] 2025-07-31 13:07:07,351 line 44, in <module>, session_id=cf9dc3590fca4a118c02e38eb926c2ee: 初期化処理に失敗しました。
+No module named 'bs4'
